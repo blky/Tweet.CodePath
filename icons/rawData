@@ -1,0 +1,2297 @@
+get the request token
+get the request token
+got access token
+timeline is (
+{
+contributors = "<null>";
+coordinates = "<null>";
+"created_at" = "Tue Oct 07 02:16:33 +0000 2014";
+entities =         {
+hashtags =             (
+);
+symbols =             (
+);
+urls =             (
+);
+"user_mentions" =             (
+{
+id = 60065881;
+"id_str" = 60065881;
+indices =                     (
+3,
+18
+);
+name = "Charlie Fulton";
+"screen_name" = "charlie_fulton";
+}
+);
+};
+"favorite_count" = 0;
+favorited = 0;
+geo = "<null>";
+id = 519310276932296704;
+"id_str" = 519310276932296704;
+"in_reply_to_screen_name" = "<null>";
+"in_reply_to_status_id" = "<null>";
+"in_reply_to_status_id_str" = "<null>";
+"in_reply_to_user_id" = "<null>";
+"in_reply_to_user_id_str" = "<null>";
+lang = en;
+place = "<null>";
+"retweet_count" = 1;
+retweeted = 0;
+"retweeted_status" =         {
+contributors = "<null>";
+coordinates = "<null>";
+"created_at" = "Mon Oct 06 23:04:43 +0000 2014";
+entities =             {
+hashtags =                 (
+);
+symbols =                 (
+);
+urls =                 (
+);
+"user_mentions" =                 (
+);
+};
+"favorite_count" = 1;
+favorited = 0;
+geo = "<null>";
+id = 519262002964070400;
+"id_str" = 519262002964070400;
+"in_reply_to_screen_name" = "<null>";
+"in_reply_to_status_id" = "<null>";
+"in_reply_to_status_id_str" = "<null>";
+"in_reply_to_user_id" = "<null>";
+"in_reply_to_user_id_str" = "<null>";
+lang = en;
+place =             {
+attributes =                 {
+};
+"bounding_box" =                 {
+coordinates =                     (
+(
+(
+"-81.086454",
+"34.8691508"
+),
+(
+"-80.9430979",
+"34.8691508"
+),
+(
+"-80.9430979",
+"34.9619861"
+),
+(
+"-81.086454",
+"34.9619861"
+)
+)
+);
+type = Polygon;
+};
+"contained_within" =                 (
+);
+country = "United States";
+"country_code" = US;
+"full_name" = "Rock Hill, SC";
+id = 00696a56e1f9f443;
+name = "Rock Hill";
+"place_type" = city;
+url = "https://api.twitter.com/1.1/geo/id/00696a56e1f9f443.json";
+};
+"retweet_count" = 1;
+retweeted = 0;
+source = "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>";
+text = "career advice: work with people a LOT smarter than you. :] Oh and smile as much as possible.";
+truncated = 0;
+user =             {
+"contributors_enabled" = 0;
+"created_at" = "Sat Jul 25 14:16:38 +0000 2009";
+"default_profile" = 0;
+"default_profile_image" = 0;
+description = "Christian, Husband, Father of two boys, iOS Developer. Author and Tutorial Team member at http://t.co/XvBUG0dJ94 #mtg and #mgto";
+entities =                 {
+description =                     {
+urls =                         (
+{
+"display_url" = "raywenderlich.com";
+"expanded_url" = "http://raywenderlich.com";
+indices =                                 (
+90,
+112
+);
+url = "http://t.co/XvBUG0dJ94";
+}
+);
+};
+};
+"favourites_count" = 736;
+"follow_request_sent" = 0;
+"followers_count" = 684;
+following = 0;
+"friends_count" = 1039;
+"geo_enabled" = 1;
+id = 60065881;
+"id_str" = 60065881;
+"is_translation_enabled" = 0;
+"is_translator" = 0;
+lang = en;
+"listed_count" = 54;
+location = "Fort Mill, SC";
+name = "Charlie Fulton";
+notifications = 0;
+"profile_background_color" = 352726;
+"profile_background_image_url" = "http://abs.twimg.com/images/themes/theme5/bg.gif";
+"profile_background_image_url_https" = "https://abs.twimg.com/images/themes/theme5/bg.gif";
+"profile_background_tile" = 0;
+"profile_image_url" = "http://pbs.twimg.com/profile_images/2289859986/ff4r7g91qdd18wv3tzje_normal.jpeg";
+"profile_image_url_https" = "https://pbs.twimg.com/profile_images/2289859986/ff4r7g91qdd18wv3tzje_normal.jpeg";
+"profile_link_color" = D02B55;
+"profile_sidebar_border_color" = 829D5E;
+"profile_sidebar_fill_color" = 99CC33;
+"profile_text_color" = 3E4415;
+"profile_use_background_image" = 1;
+protected = 0;
+"screen_name" = "charlie_fulton";
+"statuses_count" = 5614;
+"time_zone" = "Eastern Time (US & Canada)";
+url = "<null>";
+"utc_offset" = "-14400";
+verified = 0;
+};
+};
+source = "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>";
+text = "RT @charlie_fulton: career advice: work with people a LOT smarter than you. :] Oh and smile as much as possible.";
+truncated = 0;
+user =         {
+"contributors_enabled" = 0;
+"created_at" = "Tue Nov 25 00:07:22 +0000 2008";
+"default_profile" = 1;
+"default_profile_image" = 0;
+description = "Mobile Engineer, iOS, Blend Systems, Inc. http://t.co/D63a4BX2Qq";
+entities =             {
+description =                 {
+urls =                     (
+{
+"display_url" = "blend.la";
+"expanded_url" = "http://www.blend.la";
+indices =                             (
+42,
+64
+);
+url = "http://t.co/D63a4BX2Qq";
+}
+);
+};
+url =                 {
+urls =                     (
+{
+"display_url" = "lucianboboc.com";
+"expanded_url" = "http://www.lucianboboc.com";
+indices =                             (
+0,
+22
+);
+url = "http://t.co/9xJ8e8RURc";
+}
+);
+};
+};
+"favourites_count" = 50;
+"follow_request_sent" = 0;
+"followers_count" = 261;
+following = 1;
+"friends_count" = 323;
+"geo_enabled" = 1;
+id = 17605441;
+"id_str" = 17605441;
+"is_translation_enabled" = 0;
+"is_translator" = 0;
+lang = en;
+"listed_count" = 22;
+location = "";
+name = "Lucian Boboc";
+notifications = 0;
+"profile_background_color" = C0DEED;
+"profile_background_image_url" = "http://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_image_url_https" = "https://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_tile" = 0;
+"profile_banner_url" = "https://pbs.twimg.com/profile_banners/17605441/1347978414";
+"profile_image_url" = "http://pbs.twimg.com/profile_images/429002292415987712/oUAo3UOJ_normal.jpeg";
+"profile_image_url_https" = "https://pbs.twimg.com/profile_images/429002292415987712/oUAo3UOJ_normal.jpeg";
+"profile_link_color" = 0084B4;
+"profile_sidebar_border_color" = C0DEED;
+"profile_sidebar_fill_color" = DDEEF6;
+"profile_text_color" = 333333;
+"profile_use_background_image" = 1;
+protected = 0;
+"screen_name" = lucianboboc;
+"statuses_count" = 1794;
+"time_zone" = Bucharest;
+url = "http://t.co/9xJ8e8RURc";
+"utc_offset" = 10800;
+verified = 0;
+};
+},
+{
+contributors = "<null>";
+coordinates = "<null>";
+"created_at" = "Tue Oct 07 01:16:41 +0000 2014";
+entities =         {
+hashtags =             (
+);
+symbols =             (
+);
+urls =             (
+);
+"user_mentions" =             (
+);
+};
+"favorite_count" = 4;
+favorited = 0;
+geo = "<null>";
+id = 519295215031836672;
+"id_str" = 519295215031836672;
+"in_reply_to_screen_name" = "<null>";
+"in_reply_to_status_id" = "<null>";
+"in_reply_to_status_id_str" = "<null>";
+"in_reply_to_user_id" = "<null>";
+"in_reply_to_user_id_str" = "<null>";
+lang = en;
+place = "<null>";
+"retweet_count" = 5;
+retweeted = 0;
+source = "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>";
+text = "We'll look back on this time as the Pumpkin Spice Bubble.";
+truncated = 0;
+user =         {
+"contributors_enabled" = 0;
+"created_at" = "Thu Jan 25 07:21:42 +0000 2007";
+"default_profile" = 0;
+"default_profile_image" = 0;
+description = "TBD. Formerly: Twitter for iPhone, iPad, and Mac.";
+entities =             {
+description =                 {
+urls =                     (
+);
+};
+url =                 {
+urls =                     (
+{
+"display_url" = "sandofsky.com";
+"expanded_url" = "http://sandofsky.com";
+indices =                             (
+0,
+22
+);
+url = "http://t.co/dkm4Y9TAcF";
+}
+);
+};
+};
+"favourites_count" = 5096;
+"follow_request_sent" = 0;
+"followers_count" = 8696;
+following = 1;
+"friends_count" = 227;
+"geo_enabled" = 1;
+id = 699463;
+"id_str" = 699463;
+"is_translation_enabled" = 0;
+"is_translator" = 0;
+lang = en;
+"listed_count" = 358;
+location = "San Francisco, California";
+name = "Ben Sandofsky";
+notifications = 0;
+"profile_background_color" = 1A1B1F;
+"profile_background_image_url" = "http://abs.twimg.com/images/themes/theme9/bg.gif";
+"profile_background_image_url_https" = "https://abs.twimg.com/images/themes/theme9/bg.gif";
+"profile_background_tile" = 0;
+"profile_banner_url" = "https://pbs.twimg.com/profile_banners/699463/1411972640";
+"profile_image_url" = "http://pbs.twimg.com/profile_images/494203512905936896/kxUr4_GY_normal.jpeg";
+"profile_image_url_https" = "https://pbs.twimg.com/profile_images/494203512905936896/kxUr4_GY_normal.jpeg";
+"profile_link_color" = 2FC2EF;
+"profile_sidebar_border_color" = 181A1E;
+"profile_sidebar_fill_color" = 252429;
+"profile_text_color" = 666666;
+"profile_use_background_image" = 1;
+protected = 0;
+"screen_name" = sandofsky;
+"statuses_count" = 8580;
+"time_zone" = "Pacific Time (US & Canada)";
+url = "http://t.co/dkm4Y9TAcF";
+"utc_offset" = "-25200";
+verified = 0;
+};
+},
+{
+contributors = "<null>";
+coordinates = "<null>";
+"created_at" = "Tue Oct 07 01:01:40 +0000 2014";
+entities =         {
+hashtags =             (
+);
+symbols =             (
+);
+urls =             (
+{
+"display_url" = "ipn.li/taiyilaile/3/";
+"expanded_url" = "http://ipn.li/taiyilaile/3/";
+indices =                     (
+93,
+115
+);
+url = "http://t.co/tvENZxaE3F";
+}
+);
+"user_mentions" =             (
+);
+};
+"favorite_count" = 0;
+favorited = 0;
+geo = "<null>";
+id = 519291435221143552;
+"id_str" = 519291435221143552;
+"in_reply_to_screen_name" = "<null>";
+"in_reply_to_status_id" = "<null>";
+"in_reply_to_status_id_str" = "<null>";
+"in_reply_to_user_id" = "<null>";
+"in_reply_to_user_id_str" = "<null>";
+lang = zh;
+place = "<null>";
+"possibly_sensitive" = 0;
+"retweet_count" = 0;
+retweeted = 0;
+source = "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>";
+text = "\U300a\U592a\U533b\U6765\U4e86\U300b\U7b2c\U4e09\U671f\Uff1a\U533b\U9662\U91cc\U7684\U98ce\U82b1\U96ea\U6708\U3002\U4e3a\U4e86\U7f13\U89e3\U4f60\U660e\U5929\U5373\U5c06\U8981\U4e0a\U73ed\U7684\U7126\U8651\U5fc3\U60c5\Uff0c\U672c\U671f\U5305\U542b\U4ee5\U4e0b\U5185\U5bb9\Uff1a\U533b\U751f\U662f\U4e0d\U662f\U6700\U559c\U6b22\U548c\U62a4\U58eb\U5728\U4e00\U8d77\Uff1f\U60a3\U8005\U53ef\U4ee5\U8ffd\U6c42\U533b\U62a4\U4eba\U5458\U5417\Uff1f\U4ee5\U53ca\Uff1a\U521d\U592a\U533b\U503c\U73ed\U5076\U9047\U4e0d\U7ecf\U4e16\U4e8b\U5973\U5b9e\U4e60\U533b\U751f\Uff01http://t.co/tvENZxaE3F";
+truncated = 0;
+user =         {
+"contributors_enabled" = 0;
+"created_at" = "Tue Sep 23 12:37:05 +0000 2014";
+"default_profile" = 1;
+"default_profile_image" = 0;
+description = "\U592a\U533b\U6765\U4e86\U7531 IPN \U51fa\U54c1\Uff0c\U7531\U524d\U9aa8\U79d1\U533b\U751f\U521d\U6d0b\U3001\U5987\U4ea7\U79d1\U533b\U751f\U7530\U5409\U987a\U548c\U76ae\U80a4\U79d1\U533b\U751f\U9648\U8bed\U5c9a\U4e3b\U6301\Uff0c\U662f\U4e2d\U6587\U4e92\U8054\U7f51\U7b2c\U4e00\U6863\U533b\U751f\U8c08\U8bdd\U7c7b\U64ad\U5ba2\U3002\U8282\U76ee\U91cc\U6ca1\U6709\U8001\U4e13\U5bb6\U8bb2\U517b\U751f\Uff0c\U53ea\U6709\U4e09\U4e2a\U533b\U751f\U804a\U804a\U533b\U9662\U91cc\U7684\U4e8b\U513f\Uff0c\U987a\U4fbf\U7ed9\U5927\U5bb6\U505a\U505a\U79d1\U666e\U3002";
+entities =             {
+description =                 {
+urls =                     (
+);
+};
+url =                 {
+urls =                     (
+{
+"display_url" = "ipn.li/taiyilaile";
+"expanded_url" = "http://ipn.li/taiyilaile";
+indices =                             (
+0,
+22
+);
+url = "http://t.co/BIzL0RWO1e";
+}
+);
+};
+};
+"favourites_count" = 0;
+"follow_request_sent" = 0;
+"followers_count" = 85;
+following = 1;
+"friends_count" = 0;
+"geo_enabled" = 0;
+id = 2827963284;
+"id_str" = 2827963284;
+"is_translation_enabled" = 0;
+"is_translator" = 0;
+lang = en;
+"listed_count" = 2;
+location = "";
+name = "\U592a\U533b\U6765\U4e86";
+notifications = 0;
+"profile_background_color" = C0DEED;
+"profile_background_image_url" = "http://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_image_url_https" = "https://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_tile" = 0;
+"profile_image_url" = "http://pbs.twimg.com/profile_images/514393716568502273/NTU-3Og0_normal.jpeg";
+"profile_image_url_https" = "https://pbs.twimg.com/profile_images/514393716568502273/NTU-3Og0_normal.jpeg";
+"profile_link_color" = 0084B4;
+"profile_sidebar_border_color" = C0DEED;
+"profile_sidebar_fill_color" = DDEEF6;
+"profile_text_color" = 333333;
+"profile_use_background_image" = 1;
+protected = 0;
+"screen_name" = taiyilaile;
+"statuses_count" = 17;
+"time_zone" = "<null>";
+url = "http://t.co/BIzL0RWO1e";
+"utc_offset" = "<null>";
+verified = 0;
+};
+},
+{
+contributors = "<null>";
+coordinates = "<null>";
+"created_at" = "Tue Oct 07 00:13:24 +0000 2014";
+entities =         {
+hashtags =             (
+);
+symbols =             (
+);
+urls =             (
+{
+"display_url" = "bignerdranch.com/blog/new-in-co\U2026";
+"expanded_url" = "http://www.bignerdranch.com/blog/new-in-core-data-and-ios-8-batch-updating/";
+indices =                     (
+60,
+82
+);
+url = "http://t.co/p0bxupkIMD";
+}
+);
+"user_mentions" =             (
+);
+};
+"favorite_count" = 0;
+favorited = 0;
+geo = "<null>";
+id = 519279287262654464;
+"id_str" = 519279287262654464;
+"in_reply_to_screen_name" = "<null>";
+"in_reply_to_status_id" = "<null>";
+"in_reply_to_status_id_str" = "<null>";
+"in_reply_to_user_id" = "<null>";
+"in_reply_to_user_id_str" = "<null>";
+lang = en;
+place = "<null>";
+"possibly_sensitive" = 0;
+"retweet_count" = 0;
+retweeted = 0;
+source = "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>";
+text = "New in Core Data and iOS 8: Batch Updating | Big Nerd Ranch http://t.co/p0bxupkIMD";
+truncated = 0;
+user =         {
+"contributors_enabled" = 0;
+"created_at" = "Tue Nov 25 00:07:22 +0000 2008";
+"default_profile" = 1;
+"default_profile_image" = 0;
+description = "Mobile Engineer, iOS, Blend Systems, Inc. http://t.co/D63a4BX2Qq";
+entities =             {
+description =                 {
+urls =                     (
+{
+"display_url" = "blend.la";
+"expanded_url" = "http://www.blend.la";
+indices =                             (
+42,
+64
+);
+url = "http://t.co/D63a4BX2Qq";
+}
+);
+};
+url =                 {
+urls =                     (
+{
+"display_url" = "lucianboboc.com";
+"expanded_url" = "http://www.lucianboboc.com";
+indices =                             (
+0,
+22
+);
+url = "http://t.co/9xJ8e8RURc";
+}
+);
+};
+};
+"favourites_count" = 50;
+"follow_request_sent" = 0;
+"followers_count" = 261;
+following = 1;
+"friends_count" = 323;
+"geo_enabled" = 1;
+id = 17605441;
+"id_str" = 17605441;
+"is_translation_enabled" = 0;
+"is_translator" = 0;
+lang = en;
+"listed_count" = 22;
+location = "";
+name = "Lucian Boboc";
+notifications = 0;
+"profile_background_color" = C0DEED;
+"profile_background_image_url" = "http://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_image_url_https" = "https://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_tile" = 0;
+"profile_banner_url" = "https://pbs.twimg.com/profile_banners/17605441/1347978414";
+"profile_image_url" = "http://pbs.twimg.com/profile_images/429002292415987712/oUAo3UOJ_normal.jpeg";
+"profile_image_url_https" = "https://pbs.twimg.com/profile_images/429002292415987712/oUAo3UOJ_normal.jpeg";
+"profile_link_color" = 0084B4;
+"profile_sidebar_border_color" = C0DEED;
+"profile_sidebar_fill_color" = DDEEF6;
+"profile_text_color" = 333333;
+"profile_use_background_image" = 1;
+protected = 0;
+"screen_name" = lucianboboc;
+"statuses_count" = 1794;
+"time_zone" = Bucharest;
+url = "http://t.co/9xJ8e8RURc";
+"utc_offset" = 10800;
+verified = 0;
+};
+},
+{
+contributors = "<null>";
+coordinates = "<null>";
+"created_at" = "Mon Oct 06 21:35:13 +0000 2014";
+entities =         {
+hashtags =             (
+);
+symbols =             (
+);
+urls =             (
+{
+"display_url" = "writersalmanac.publicradio.org/index.php?date\U2026";
+"expanded_url" = "http://writersalmanac.publicradio.org/index.php?date=2014/10/06";
+indices =                     (
+118,
+140
+);
+url = "http://t.co/t7fvbxzajI";
+}
+);
+"user_mentions" =             (
+);
+};
+"favorite_count" = 2;
+favorited = 0;
+geo = "<null>";
+id = 519239477915832320;
+"id_str" = 519239477915832320;
+"in_reply_to_screen_name" = "<null>";
+"in_reply_to_status_id" = "<null>";
+"in_reply_to_status_id_str" = "<null>";
+"in_reply_to_user_id" = "<null>";
+"in_reply_to_user_id_str" = "<null>";
+lang = en;
+place = "<null>";
+"possibly_sensitive" = 0;
+"retweet_count" = 1;
+retweeted = 0;
+source = "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>";
+text = "\"Composition\" by John Ashbery. 2007: Jason Lewis and his team complete the 1st human-powered trip around the world... http://t.co/t7fvbxzajI";
+truncated = 0;
+user =         {
+"contributors_enabled" = 0;
+"created_at" = "Thu Mar 01 20:59:45 +0000 2012";
+"default_profile" = 0;
+"default_profile_image" = 0;
+description = "Daily poems, prose, and literary history from Garrison Keillor, plus other updates from web guy Ben M. (We haven't quite convinced GK to try out Twitter\U2014yet.)";
+entities =             {
+description =                 {
+urls =                     (
+);
+};
+url =                 {
+urls =                     (
+{
+"display_url" = "writersalmanac.org";
+"expanded_url" = "http://writersalmanac.org";
+indices =                             (
+0,
+22
+);
+url = "http://t.co/BdWzB7UIFs";
+}
+);
+};
+};
+"favourites_count" = 65;
+"follow_request_sent" = 0;
+"followers_count" = 8273;
+following = 1;
+"friends_count" = 3;
+"geo_enabled" = 0;
+id = 510845093;
+"id_str" = 510845093;
+"is_translation_enabled" = 0;
+"is_translator" = 0;
+lang = en;
+"listed_count" = 314;
+location = "St. Paul, MN";
+name = "The Writer's Almanac";
+notifications = 0;
+"profile_background_color" = EDE9E4;
+"profile_background_image_url" = "http://pbs.twimg.com/profile_background_images/444989144/wallpaper.gif";
+"profile_background_image_url_https" = "https://pbs.twimg.com/profile_background_images/444989144/wallpaper.gif";
+"profile_background_tile" = 0;
+"profile_banner_url" = "https://pbs.twimg.com/profile_banners/510845093/1348068175";
+"profile_image_url" = "http://pbs.twimg.com/profile_images/1865522468/twa_logo_normal.png";
+"profile_image_url_https" = "https://pbs.twimg.com/profile_images/1865522468/twa_logo_normal.png";
+"profile_link_color" = 7A0B0D;
+"profile_sidebar_border_color" = FFFFFF;
+"profile_sidebar_fill_color" = DDEEF6;
+"profile_text_color" = 333333;
+"profile_use_background_image" = 0;
+protected = 0;
+"screen_name" = writersalmanac;
+"statuses_count" = 2048;
+"time_zone" = "Central Time (US & Canada)";
+url = "http://t.co/BdWzB7UIFs";
+"utc_offset" = "-18000";
+verified = 0;
+};
+},
+{
+contributors = "<null>";
+coordinates = "<null>";
+"created_at" = "Mon Oct 06 21:35:07 +0000 2014";
+entities =         {
+hashtags =             (
+);
+symbols =             (
+);
+urls =             (
+{
+"display_url" = "prairiehome.publicradio.org/listen/?date=2\U2026";
+"expanded_url" = "http://prairiehome.publicradio.org/listen/?date=2014/10/04";
+indices =                     (
+96,
+118
+);
+url = "http://t.co/A5fGhj3Nyv";
+}
+);
+"user_mentions" =             (
+);
+};
+"favorite_count" = 1;
+favorited = 0;
+geo = "<null>";
+id = 519239455883149313;
+"id_str" = 519239455883149313;
+"in_reply_to_screen_name" = "<null>";
+"in_reply_to_status_id" = "<null>";
+"in_reply_to_status_id_str" = "<null>";
+"in_reply_to_user_id" = "<null>";
+"in_reply_to_user_id_str" = "<null>";
+lang = en;
+place = "<null>";
+"possibly_sensitive" = 0;
+"retweet_count" = 2;
+retweeted = 0;
+source = "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>";
+text = "APHC for 10/4: Guy Noir meets a memoirist named Mona, and a word from Potentate Cruise Lines... http://t.co/A5fGhj3Nyv";
+truncated = 0;
+user =         {
+"contributors_enabled" = 0;
+"created_at" = "Wed Apr 13 15:56:10 +0000 2011";
+"default_profile" = 0;
+"default_profile_image" = 0;
+description = "A Prairie Home Companion with Garrison Keillor. Tweets by web guy Ben M. (We haven't quite convinced GK to try out Twitter\U2014yet.)";
+entities =             {
+description =                 {
+urls =                     (
+);
+};
+url =                 {
+urls =                     (
+{
+"display_url" = "prairiehome.org";
+"expanded_url" = "http://prairiehome.org";
+indices =                             (
+0,
+22
+);
+url = "http://t.co/4Z8zdTyr7b";
+}
+);
+};
+};
+"favourites_count" = 906;
+"follow_request_sent" = 0;
+"followers_count" = 11317;
+following = 1;
+"friends_count" = 62;
+"geo_enabled" = 0;
+id = 281596622;
+"id_str" = 281596622;
+"is_translation_enabled" = 0;
+"is_translator" = 0;
+lang = en;
+"listed_count" = 208;
+location = "St. Paul, MN";
+name = "Prairie Home Comp.";
+notifications = 0;
+"profile_background_color" = 0E4A00;
+"profile_background_image_url" = "http://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_image_url_https" = "https://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_tile" = 0;
+"profile_banner_url" = "https://pbs.twimg.com/profile_banners/281596622/1388677597";
+"profile_image_url" = "http://pbs.twimg.com/profile_images/484079981681582080/GyQgfsDn_normal.png";
+"profile_image_url_https" = "https://pbs.twimg.com/profile_images/484079981681582080/GyQgfsDn_normal.png";
+"profile_link_color" = CE1601;
+"profile_sidebar_border_color" = FFFFFF;
+"profile_sidebar_fill_color" = DDEEF6;
+"profile_text_color" = 333333;
+"profile_use_background_image" = 0;
+protected = 0;
+"screen_name" = "prairie_home";
+"statuses_count" = 3022;
+"time_zone" = "Central Time (US & Canada)";
+url = "http://t.co/4Z8zdTyr7b";
+"utc_offset" = "-18000";
+verified = 0;
+};
+},
+{
+contributors = "<null>";
+coordinates = "<null>";
+"created_at" = "Mon Oct 06 20:15:19 +0000 2014";
+entities =         {
+hashtags =             (
+);
+symbols =             (
+);
+urls =             (
+{
+"display_url" = "prairiehome.publicradio.org/listen/?date=2\U2026";
+"expanded_url" = "http://prairiehome.publicradio.org/listen/?date=2014/10/04";
+indices =                     (
+97,
+119
+);
+url = "http://t.co/A5fGhj3Nyv";
+}
+);
+"user_mentions" =             (
+{
+id = 14891887;
+"id_str" = 14891887;
+indices =                     (
+50,
+61
+);
+name = ellis;
+"screen_name" = ellismusic;
+},
+{
+id = 444758991;
+"id_str" = 444758991;
+indices =                     (
+79,
+93
+);
+name = "Jeff Forester";
+"screen_name" = JeffForester1;
+}
+);
+};
+"favorite_count" = 3;
+favorited = 0;
+geo = "<null>";
+id = 519219371559124992;
+"id_str" = 519219371559124992;
+"in_reply_to_screen_name" = "<null>";
+"in_reply_to_status_id" = "<null>";
+"in_reply_to_status_id_str" = "<null>";
+"in_reply_to_user_id" = "<null>";
+"in_reply_to_user_id_str" = "<null>";
+lang = en;
+place = "<null>";
+"possibly_sensitive" = 0;
+"retweet_count" = 1;
+retweeted = 0;
+source = "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>";
+text = "APHC for 10/4: Music from The Gibson Brothers and @ellismusic, and a chat with @jeffforester1... http://t.co/A5fGhj3Nyv";
+truncated = 0;
+user =         {
+"contributors_enabled" = 0;
+"created_at" = "Wed Apr 13 15:56:10 +0000 2011";
+"default_profile" = 0;
+"default_profile_image" = 0;
+description = "A Prairie Home Companion with Garrison Keillor. Tweets by web guy Ben M. (We haven't quite convinced GK to try out Twitter\U2014yet.)";
+entities =             {
+description =                 {
+urls =                     (
+);
+};
+url =                 {
+urls =                     (
+{
+"display_url" = "prairiehome.org";
+"expanded_url" = "http://prairiehome.org";
+indices =                             (
+0,
+22
+);
+url = "http://t.co/4Z8zdTyr7b";
+}
+);
+};
+};
+"favourites_count" = 906;
+"follow_request_sent" = 0;
+"followers_count" = 11317;
+following = 1;
+"friends_count" = 62;
+"geo_enabled" = 0;
+id = 281596622;
+"id_str" = 281596622;
+"is_translation_enabled" = 0;
+"is_translator" = 0;
+lang = en;
+"listed_count" = 208;
+location = "St. Paul, MN";
+name = "Prairie Home Comp.";
+notifications = 0;
+"profile_background_color" = 0E4A00;
+"profile_background_image_url" = "http://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_image_url_https" = "https://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_tile" = 0;
+"profile_banner_url" = "https://pbs.twimg.com/profile_banners/281596622/1388677597";
+"profile_image_url" = "http://pbs.twimg.com/profile_images/484079981681582080/GyQgfsDn_normal.png";
+"profile_image_url_https" = "https://pbs.twimg.com/profile_images/484079981681582080/GyQgfsDn_normal.png";
+"profile_link_color" = CE1601;
+"profile_sidebar_border_color" = FFFFFF;
+"profile_sidebar_fill_color" = DDEEF6;
+"profile_text_color" = 333333;
+"profile_use_background_image" = 0;
+protected = 0;
+"screen_name" = "prairie_home";
+"statuses_count" = 3022;
+"time_zone" = "Central Time (US & Canada)";
+url = "http://t.co/4Z8zdTyr7b";
+"utc_offset" = "-18000";
+verified = 0;
+};
+},
+{
+contributors = "<null>";
+coordinates = "<null>";
+"created_at" = "Mon Oct 06 18:15:05 +0000 2014";
+entities =         {
+hashtags =             (
+);
+symbols =             (
+);
+urls =             (
+{
+"display_url" = "ipn.li/taiyilaile/3/";
+"expanded_url" = "http://ipn.li/taiyilaile/3/";
+indices =                     (
+36,
+58
+);
+url = "http://t.co/tvENZxaE3F";
+}
+);
+"user_mentions" =             (
+);
+};
+"favorite_count" = 0;
+favorited = 0;
+geo = "<null>";
+id = 519189114583650304;
+"id_str" = 519189114583650304;
+"in_reply_to_screen_name" = "<null>";
+"in_reply_to_status_id" = "<null>";
+"in_reply_to_status_id_str" = "<null>";
+"in_reply_to_user_id" = "<null>";
+"in_reply_to_user_id_str" = "<null>";
+lang = zh;
+place = "<null>";
+"possibly_sensitive" = 0;
+"retweet_count" = 1;
+retweeted = 0;
+source = "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>";
+text = "\U300a\U592a\U533b\U6765\U4e86\U300b\U7b2c\U4e09\U671f\U300c\U533b\U9662\U91cc\U7684\U98ce\U82b1\U96ea\U6708\U300d\U4e0a\U7ebf\Uff0c\U897f\U534a\U7403\U7684\U670b\U53cb\U53ef\U4ee5\U5148\U542c\U4e3a\U5feb\U4e86\U3002http://t.co/tvENZxaE3F";
+truncated = 0;
+user =         {
+"contributors_enabled" = 0;
+"created_at" = "Tue Sep 23 12:37:05 +0000 2014";
+"default_profile" = 1;
+"default_profile_image" = 0;
+description = "\U592a\U533b\U6765\U4e86\U7531 IPN \U51fa\U54c1\Uff0c\U7531\U524d\U9aa8\U79d1\U533b\U751f\U521d\U6d0b\U3001\U5987\U4ea7\U79d1\U533b\U751f\U7530\U5409\U987a\U548c\U76ae\U80a4\U79d1\U533b\U751f\U9648\U8bed\U5c9a\U4e3b\U6301\Uff0c\U662f\U4e2d\U6587\U4e92\U8054\U7f51\U7b2c\U4e00\U6863\U533b\U751f\U8c08\U8bdd\U7c7b\U64ad\U5ba2\U3002\U8282\U76ee\U91cc\U6ca1\U6709\U8001\U4e13\U5bb6\U8bb2\U517b\U751f\Uff0c\U53ea\U6709\U4e09\U4e2a\U533b\U751f\U804a\U804a\U533b\U9662\U91cc\U7684\U4e8b\U513f\Uff0c\U987a\U4fbf\U7ed9\U5927\U5bb6\U505a\U505a\U79d1\U666e\U3002";
+entities =             {
+description =                 {
+urls =                     (
+);
+};
+url =                 {
+urls =                     (
+{
+"display_url" = "ipn.li/taiyilaile";
+"expanded_url" = "http://ipn.li/taiyilaile";
+indices =                             (
+0,
+22
+);
+url = "http://t.co/BIzL0RWO1e";
+}
+);
+};
+};
+"favourites_count" = 0;
+"follow_request_sent" = 0;
+"followers_count" = 85;
+following = 1;
+"friends_count" = 0;
+"geo_enabled" = 0;
+id = 2827963284;
+"id_str" = 2827963284;
+"is_translation_enabled" = 0;
+"is_translator" = 0;
+lang = en;
+"listed_count" = 2;
+location = "";
+name = "\U592a\U533b\U6765\U4e86";
+notifications = 0;
+"profile_background_color" = C0DEED;
+"profile_background_image_url" = "http://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_image_url_https" = "https://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_tile" = 0;
+"profile_image_url" = "http://pbs.twimg.com/profile_images/514393716568502273/NTU-3Og0_normal.jpeg";
+"profile_image_url_https" = "https://pbs.twimg.com/profile_images/514393716568502273/NTU-3Og0_normal.jpeg";
+"profile_link_color" = 0084B4;
+"profile_sidebar_border_color" = C0DEED;
+"profile_sidebar_fill_color" = DDEEF6;
+"profile_text_color" = 333333;
+"profile_use_background_image" = 1;
+protected = 0;
+"screen_name" = taiyilaile;
+"statuses_count" = 17;
+"time_zone" = "<null>";
+url = "http://t.co/BIzL0RWO1e";
+"utc_offset" = "<null>";
+verified = 0;
+};
+},
+{
+contributors = "<null>";
+coordinates = "<null>";
+"created_at" = "Mon Oct 06 15:24:16 +0000 2014";
+entities =         {
+hashtags =             (
+);
+symbols =             (
+{
+indices =                     (
+30,
+35
+);
+text = GTAT;
+}
+);
+urls =             (
+);
+"user_mentions" =             (
+{
+id = 28954840;
+"id_str" = 28954840;
+indices =                     (
+1,
+12
+);
+name = "Chen Zhang";
+"screen_name" = overboming;
+}
+);
+};
+"favorite_count" = 0;
+favorited = 0;
+geo = "<null>";
+id = 519146126201458688;
+"id_str" = 519146126201458688;
+"in_reply_to_screen_name" = overboming;
+"in_reply_to_status_id" = 519138890918027265;
+"in_reply_to_status_id_str" = 519138890918027265;
+"in_reply_to_user_id" = 28954840;
+"in_reply_to_user_id_str" = 28954840;
+lang = zh;
+place = "<null>";
+"retweet_count" = 0;
+retweeted = 0;
+source = "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>";
+text = "\U201c@overboming: \U4e4b\U524d\U4f20\U95fb\U7ed9\U82f9\U679c\U4f9b\U5e94\U84dd\U5b9d\U77f3\U73bb\U7483\U7684 $GTAT \U5ba3\U544a\U7834\U4ea7...\U201d \U8fd9\U4e0b\U53ef\U600e\U4e48\U73a9";
+truncated = 0;
+user =         {
+"contributors_enabled" = 0;
+"created_at" = "Sun Nov 01 04:19:53 +0000 2009";
+"default_profile" = 0;
+"default_profile_image" = 0;
+description = "IT \U516c\U8bba co-host https://t.co/Isa9G6D6z6 IPN co-founder https://t.co/oGkwGVNAv2";
+entities =             {
+description =                 {
+urls =                     (
+{
+"display_url" = "itgonglun.com";
+"expanded_url" = "https://itgonglun.com";
+indices =                             (
+14,
+37
+);
+url = "https://t.co/Isa9G6D6z6";
+},
+{
+"display_url" = "ipn.li";
+"expanded_url" = "https://ipn.li";
+indices =                             (
+53,
+76
+);
+url = "https://t.co/oGkwGVNAv2";
+}
+);
+};
+url =                 {
+urls =                     (
+{
+"display_url" = "riobard.com";
+"expanded_url" = "http://riobard.com";
+indices =                             (
+0,
+22
+);
+url = "http://t.co/XQkvNgIyzo";
+}
+);
+};
+};
+"favourites_count" = 715;
+"follow_request_sent" = 0;
+"followers_count" = 948;
+following = 1;
+"friends_count" = 139;
+"geo_enabled" = 0;
+id = 86659057;
+"id_str" = 86659057;
+"is_translation_enabled" = 0;
+"is_translator" = 0;
+lang = en;
+"listed_count" = 45;
+location = Canada;
+name = Riobard;
+notifications = 0;
+"profile_background_color" = 444444;
+"profile_background_image_url" = "http://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_image_url_https" = "https://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_tile" = 0;
+"profile_image_url" = "http://pbs.twimg.com/profile_images/412381060945555457/PCBod5JY_normal.png";
+"profile_image_url_https" = "https://pbs.twimg.com/profile_images/412381060945555457/PCBod5JY_normal.png";
+"profile_link_color" = 33CCFF;
+"profile_sidebar_border_color" = 333333;
+"profile_sidebar_fill_color" = 666666;
+"profile_text_color" = 222222;
+"profile_use_background_image" = 0;
+protected = 0;
+"screen_name" = RioJot;
+"statuses_count" = 9703;
+"time_zone" = Newfoundland;
+url = "http://t.co/XQkvNgIyzo";
+"utc_offset" = "-9000";
+verified = 0;
+};
+},
+{
+contributors = "<null>";
+coordinates = "<null>";
+"created_at" = "Mon Oct 06 14:45:27 +0000 2014";
+entities =         {
+hashtags =             (
+);
+symbols =             (
+);
+urls =             (
+{
+"display_url" = "writersalmanac.publicradio.org/index.php?date\U2026";
+"expanded_url" = "http://writersalmanac.publicradio.org/index.php?date=2014/10/06";
+indices =                     (
+112,
+134
+);
+url = "http://t.co/t7fvbxzajI";
+}
+);
+"user_mentions" =             (
+);
+};
+"favorite_count" = 0;
+favorited = 0;
+geo = "<null>";
+id = 519136355998523393;
+"id_str" = 519136355998523393;
+"in_reply_to_screen_name" = "<null>";
+"in_reply_to_status_id" = "<null>";
+"in_reply_to_status_id_str" = "<null>";
+"in_reply_to_user_id" = "<null>";
+"in_reply_to_user_id_str" = "<null>";
+lang = en;
+place = "<null>";
+"possibly_sensitive" = 0;
+"retweet_count" = 1;
+retweeted = 0;
+source = "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>";
+text = "\"Composition\" by John Ashbery. 1945: tavern-owner William \"Billy Goat\" Sianis was ejected from Wrigley Field... http://t.co/t7fvbxzajI";
+truncated = 0;
+user =         {
+"contributors_enabled" = 0;
+"created_at" = "Thu Mar 01 20:59:45 +0000 2012";
+"default_profile" = 0;
+"default_profile_image" = 0;
+description = "Daily poems, prose, and literary history from Garrison Keillor, plus other updates from web guy Ben M. (We haven't quite convinced GK to try out Twitter\U2014yet.)";
+entities =             {
+description =                 {
+urls =                     (
+);
+};
+url =                 {
+urls =                     (
+{
+"display_url" = "writersalmanac.org";
+"expanded_url" = "http://writersalmanac.org";
+indices =                             (
+0,
+22
+);
+url = "http://t.co/BdWzB7UIFs";
+}
+);
+};
+};
+"favourites_count" = 65;
+"follow_request_sent" = 0;
+"followers_count" = 8273;
+following = 1;
+"friends_count" = 3;
+"geo_enabled" = 0;
+id = 510845093;
+"id_str" = 510845093;
+"is_translation_enabled" = 0;
+"is_translator" = 0;
+lang = en;
+"listed_count" = 314;
+location = "St. Paul, MN";
+name = "The Writer's Almanac";
+notifications = 0;
+"profile_background_color" = EDE9E4;
+"profile_background_image_url" = "http://pbs.twimg.com/profile_background_images/444989144/wallpaper.gif";
+"profile_background_image_url_https" = "https://pbs.twimg.com/profile_background_images/444989144/wallpaper.gif";
+"profile_background_tile" = 0;
+"profile_banner_url" = "https://pbs.twimg.com/profile_banners/510845093/1348068175";
+"profile_image_url" = "http://pbs.twimg.com/profile_images/1865522468/twa_logo_normal.png";
+"profile_image_url_https" = "https://pbs.twimg.com/profile_images/1865522468/twa_logo_normal.png";
+"profile_link_color" = 7A0B0D;
+"profile_sidebar_border_color" = FFFFFF;
+"profile_sidebar_fill_color" = DDEEF6;
+"profile_text_color" = 333333;
+"profile_use_background_image" = 0;
+protected = 0;
+"screen_name" = writersalmanac;
+"statuses_count" = 2048;
+"time_zone" = "Central Time (US & Canada)";
+url = "http://t.co/BdWzB7UIFs";
+"utc_offset" = "-18000";
+verified = 0;
+};
+},
+{
+contributors = "<null>";
+coordinates = "<null>";
+"created_at" = "Mon Oct 06 13:01:58 +0000 2014";
+entities =         {
+hashtags =             (
+);
+symbols =             (
+);
+urls =             (
+{
+"display_url" = "writersalmanac.publicradio.org/index.php?date\U2026";
+"expanded_url" = "http://writersalmanac.publicradio.org/index.php?date=2014/10/06";
+indices =                     (
+63,
+85
+);
+url = "http://t.co/t7fvbxzajI";
+}
+);
+"user_mentions" =             (
+);
+};
+"favorite_count" = 1;
+favorited = 0;
+geo = "<null>";
+id = 519110317616668673;
+"id_str" = 519110317616668673;
+"in_reply_to_screen_name" = "<null>";
+"in_reply_to_status_id" = "<null>";
+"in_reply_to_status_id_str" = "<null>";
+"in_reply_to_user_id" = "<null>";
+"in_reply_to_user_id_str" = "<null>";
+lang = en;
+place = "<null>";
+"possibly_sensitive" = 0;
+"retweet_count" = 5;
+retweeted = 0;
+source = "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>";
+text = "\"Composition\" by John Ashbery. Today is German-American Day... http://t.co/t7fvbxzajI";
+truncated = 0;
+user =         {
+"contributors_enabled" = 0;
+"created_at" = "Thu Mar 01 20:59:45 +0000 2012";
+"default_profile" = 0;
+"default_profile_image" = 0;
+description = "Daily poems, prose, and literary history from Garrison Keillor, plus other updates from web guy Ben M. (We haven't quite convinced GK to try out Twitter\U2014yet.)";
+entities =             {
+description =                 {
+urls =                     (
+);
+};
+url =                 {
+urls =                     (
+{
+"display_url" = "writersalmanac.org";
+"expanded_url" = "http://writersalmanac.org";
+indices =                             (
+0,
+22
+);
+url = "http://t.co/BdWzB7UIFs";
+}
+);
+};
+};
+"favourites_count" = 65;
+"follow_request_sent" = 0;
+"followers_count" = 8273;
+following = 1;
+"friends_count" = 3;
+"geo_enabled" = 0;
+id = 510845093;
+"id_str" = 510845093;
+"is_translation_enabled" = 0;
+"is_translator" = 0;
+lang = en;
+"listed_count" = 314;
+location = "St. Paul, MN";
+name = "The Writer's Almanac";
+notifications = 0;
+"profile_background_color" = EDE9E4;
+"profile_background_image_url" = "http://pbs.twimg.com/profile_background_images/444989144/wallpaper.gif";
+"profile_background_image_url_https" = "https://pbs.twimg.com/profile_background_images/444989144/wallpaper.gif";
+"profile_background_tile" = 0;
+"profile_banner_url" = "https://pbs.twimg.com/profile_banners/510845093/1348068175";
+"profile_image_url" = "http://pbs.twimg.com/profile_images/1865522468/twa_logo_normal.png";
+"profile_image_url_https" = "https://pbs.twimg.com/profile_images/1865522468/twa_logo_normal.png";
+"profile_link_color" = 7A0B0D;
+"profile_sidebar_border_color" = FFFFFF;
+"profile_sidebar_fill_color" = DDEEF6;
+"profile_text_color" = 333333;
+"profile_use_background_image" = 0;
+protected = 0;
+"screen_name" = writersalmanac;
+"statuses_count" = 2048;
+"time_zone" = "Central Time (US & Canada)";
+url = "http://t.co/BdWzB7UIFs";
+"utc_offset" = "-18000";
+verified = 0;
+};
+},
+{
+contributors = "<null>";
+coordinates = "<null>";
+"created_at" = "Mon Oct 06 05:42:53 +0000 2014";
+entities =         {
+hashtags =             (
+);
+media =             (
+{
+"display_url" = "pic.twitter.com/rnCiWSfRg9";
+"expanded_url" = "http://twitter.com/sandofsky/status/518999814889943040/photo/1";
+id = 518999814374055936;
+"id_str" = 518999814374055936;
+indices =                     (
+11,
+33
+);
+"media_url" = "http://pbs.twimg.com/media/BzPblNZCYAAbEVm.jpg";
+"media_url_https" = "https://pbs.twimg.com/media/BzPblNZCYAAbEVm.jpg";
+sizes =                     {
+large =                         {
+h = 704;
+resize = fit;
+w = 1024;
+};
+medium =                         {
+h = 412;
+resize = fit;
+w = 600;
+};
+small =                         {
+h = 233;
+resize = fit;
+w = 340;
+};
+thumb =                         {
+h = 150;
+resize = crop;
+w = 150;
+};
+};
+type = photo;
+url = "http://t.co/rnCiWSfRg9";
+}
+);
+symbols =             (
+);
+urls =             (
+);
+"user_mentions" =             (
+);
+};
+"extended_entities" =         {
+media =             (
+{
+"display_url" = "pic.twitter.com/rnCiWSfRg9";
+"expanded_url" = "http://twitter.com/sandofsky/status/518999814889943040/photo/1";
+id = 518999814374055936;
+"id_str" = 518999814374055936;
+indices =                     (
+11,
+33
+);
+"media_url" = "http://pbs.twimg.com/media/BzPblNZCYAAbEVm.jpg";
+"media_url_https" = "https://pbs.twimg.com/media/BzPblNZCYAAbEVm.jpg";
+sizes =                     {
+large =                         {
+h = 704;
+resize = fit;
+w = 1024;
+};
+medium =                         {
+h = 412;
+resize = fit;
+w = 600;
+};
+small =                         {
+h = 233;
+resize = fit;
+w = 340;
+};
+thumb =                         {
+h = 150;
+resize = crop;
+w = 150;
+};
+};
+type = photo;
+url = "http://t.co/rnCiWSfRg9";
+}
+);
+};
+"favorite_count" = 23;
+favorited = 0;
+geo = "<null>";
+id = 518999814889943040;
+"id_str" = 518999814889943040;
+"in_reply_to_screen_name" = "<null>";
+"in_reply_to_status_id" = "<null>";
+"in_reply_to_status_id_str" = "<null>";
+"in_reply_to_user_id" = "<null>";
+"in_reply_to_user_id_str" = "<null>";
+lang = en;
+place = "<null>";
+"possibly_sensitive" = 0;
+"retweet_count" = 1;
+retweeted = 0;
+source = "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>";
+text = "Japantown. http://t.co/rnCiWSfRg9";
+truncated = 0;
+user =         {
+"contributors_enabled" = 0;
+"created_at" = "Thu Jan 25 07:21:42 +0000 2007";
+"default_profile" = 0;
+"default_profile_image" = 0;
+description = "TBD. Formerly: Twitter for iPhone, iPad, and Mac.";
+entities =             {
+description =                 {
+urls =                     (
+);
+};
+url =                 {
+urls =                     (
+{
+"display_url" = "sandofsky.com";
+"expanded_url" = "http://sandofsky.com";
+indices =                             (
+0,
+22
+);
+url = "http://t.co/dkm4Y9TAcF";
+}
+);
+};
+};
+"favourites_count" = 5096;
+"follow_request_sent" = 0;
+"followers_count" = 8696;
+following = 1;
+"friends_count" = 227;
+"geo_enabled" = 1;
+id = 699463;
+"id_str" = 699463;
+"is_translation_enabled" = 0;
+"is_translator" = 0;
+lang = en;
+"listed_count" = 358;
+location = "San Francisco, California";
+name = "Ben Sandofsky";
+notifications = 0;
+"profile_background_color" = 1A1B1F;
+"profile_background_image_url" = "http://abs.twimg.com/images/themes/theme9/bg.gif";
+"profile_background_image_url_https" = "https://abs.twimg.com/images/themes/theme9/bg.gif";
+"profile_background_tile" = 0;
+"profile_banner_url" = "https://pbs.twimg.com/profile_banners/699463/1411972640";
+"profile_image_url" = "http://pbs.twimg.com/profile_images/494203512905936896/kxUr4_GY_normal.jpeg";
+"profile_image_url_https" = "https://pbs.twimg.com/profile_images/494203512905936896/kxUr4_GY_normal.jpeg";
+"profile_link_color" = 2FC2EF;
+"profile_sidebar_border_color" = 181A1E;
+"profile_sidebar_fill_color" = 252429;
+"profile_text_color" = 666666;
+"profile_use_background_image" = 1;
+protected = 0;
+"screen_name" = sandofsky;
+"statuses_count" = 8580;
+"time_zone" = "Pacific Time (US & Canada)";
+url = "http://t.co/dkm4Y9TAcF";
+"utc_offset" = "-25200";
+verified = 0;
+};
+},
+{
+contributors = "<null>";
+coordinates = "<null>";
+"created_at" = "Mon Oct 06 05:20:11 +0000 2014";
+entities =         {
+hashtags =             (
+);
+symbols =             (
+);
+urls =             (
+);
+"user_mentions" =             (
+);
+};
+"favorite_count" = 0;
+favorited = 0;
+geo = "<null>";
+id = 518994102902599680;
+"id_str" = 518994102902599680;
+"in_reply_to_screen_name" = "<null>";
+"in_reply_to_status_id" = "<null>";
+"in_reply_to_status_id_str" = "<null>";
+"in_reply_to_user_id" = "<null>";
+"in_reply_to_user_id_str" = "<null>";
+lang = zh;
+place = "<null>";
+"retweet_count" = 0;
+retweeted = 0;
+source = "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>";
+text = "\U300a\U592a\U533b\U6765\U4e86\U300b\U7b2c\U4e09\U671f\U7684\U8bdd\U9898\U662f\U533b\U751f\U7684\U7231\U60c5\U3002\U5927\U5bb6\U5f00\U5fc3\U5417\Uff1f\U660e\U5929\U4e0a\U7ebf\U3002";
+truncated = 0;
+user =         {
+"contributors_enabled" = 0;
+"created_at" = "Tue Sep 23 12:37:05 +0000 2014";
+"default_profile" = 1;
+"default_profile_image" = 0;
+description = "\U592a\U533b\U6765\U4e86\U7531 IPN \U51fa\U54c1\Uff0c\U7531\U524d\U9aa8\U79d1\U533b\U751f\U521d\U6d0b\U3001\U5987\U4ea7\U79d1\U533b\U751f\U7530\U5409\U987a\U548c\U76ae\U80a4\U79d1\U533b\U751f\U9648\U8bed\U5c9a\U4e3b\U6301\Uff0c\U662f\U4e2d\U6587\U4e92\U8054\U7f51\U7b2c\U4e00\U6863\U533b\U751f\U8c08\U8bdd\U7c7b\U64ad\U5ba2\U3002\U8282\U76ee\U91cc\U6ca1\U6709\U8001\U4e13\U5bb6\U8bb2\U517b\U751f\Uff0c\U53ea\U6709\U4e09\U4e2a\U533b\U751f\U804a\U804a\U533b\U9662\U91cc\U7684\U4e8b\U513f\Uff0c\U987a\U4fbf\U7ed9\U5927\U5bb6\U505a\U505a\U79d1\U666e\U3002";
+entities =             {
+description =                 {
+urls =                     (
+);
+};
+url =                 {
+urls =                     (
+{
+"display_url" = "ipn.li/taiyilaile";
+"expanded_url" = "http://ipn.li/taiyilaile";
+indices =                             (
+0,
+22
+);
+url = "http://t.co/BIzL0RWO1e";
+}
+);
+};
+};
+"favourites_count" = 0;
+"follow_request_sent" = 0;
+"followers_count" = 85;
+following = 1;
+"friends_count" = 0;
+"geo_enabled" = 0;
+id = 2827963284;
+"id_str" = 2827963284;
+"is_translation_enabled" = 0;
+"is_translator" = 0;
+lang = en;
+"listed_count" = 2;
+location = "";
+name = "\U592a\U533b\U6765\U4e86";
+notifications = 0;
+"profile_background_color" = C0DEED;
+"profile_background_image_url" = "http://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_image_url_https" = "https://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_tile" = 0;
+"profile_image_url" = "http://pbs.twimg.com/profile_images/514393716568502273/NTU-3Og0_normal.jpeg";
+"profile_image_url_https" = "https://pbs.twimg.com/profile_images/514393716568502273/NTU-3Og0_normal.jpeg";
+"profile_link_color" = 0084B4;
+"profile_sidebar_border_color" = C0DEED;
+"profile_sidebar_fill_color" = DDEEF6;
+"profile_text_color" = 333333;
+"profile_use_background_image" = 1;
+protected = 0;
+"screen_name" = taiyilaile;
+"statuses_count" = 17;
+"time_zone" = "<null>";
+url = "http://t.co/BIzL0RWO1e";
+"utc_offset" = "<null>";
+verified = 0;
+};
+},
+{
+contributors = "<null>";
+coordinates = "<null>";
+"created_at" = "Mon Oct 06 04:47:37 +0000 2014";
+entities =         {
+hashtags =             (
+);
+symbols =             (
+);
+urls =             (
+{
+"display_url" = "zhihu.com/question/24672\U2026";
+"expanded_url" = "http://www.zhihu.com/question/24672973";
+indices =                     (
+17,
+39
+);
+url = "http://t.co/n2OlyebbHs";
+}
+);
+"user_mentions" =             (
+);
+};
+"favorite_count" = 2;
+favorited = 0;
+geo = "<null>";
+id = 518985906871885824;
+"id_str" = 518985906871885824;
+"in_reply_to_screen_name" = "<null>";
+"in_reply_to_status_id" = "<null>";
+"in_reply_to_status_id_str" = "<null>";
+"in_reply_to_user_id" = "<null>";
+"in_reply_to_user_id_str" = "<null>";
+lang = zh;
+place = "<null>";
+"possibly_sensitive" = 0;
+"retweet_count" = 0;
+retweeted = 0;
+source = "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>";
+text = "\U77e5\U4e4e\Uff1a\U300aIT \U516c\U8bba\U300b\U5b58\U5728\U54ea\U4e9b\U95ee\U9898\Uff1fhttp://t.co/n2OlyebbHs \U6b22\U8fce\U5404\U4f4d\U6279\U8bc4\U3001\U5410\U69fd\U3002";
+truncated = 0;
+user =         {
+"contributors_enabled" = 0;
+"created_at" = "Wed Oct 30 06:38:45 +0000 2013";
+"default_profile" = 1;
+"default_profile_image" = 0;
+description = "\U674e\U5982\U4e00\U3001Rio\U3001\U674e\U6960\U4e3b\U6301\U7684\U79d1\U6280\U8131\U53e3\U79c0\U3002\U8d5e\U52a9\U4e0e\U5408\U4f5c\U4e8b\U5b9c\U8bf7\U6765\U4fe1\Uff1aLawrence@itgonglun.com";
+entities =             {
+description =                 {
+urls =                     (
+);
+};
+url =                 {
+urls =                     (
+{
+"display_url" = "ipn.li/itgonglun/";
+"expanded_url" = "https://ipn.li/itgonglun/";
+indices =                             (
+0,
+23
+);
+url = "https://t.co/DKTkppf2P5";
+}
+);
+};
+};
+"favourites_count" = 0;
+"follow_request_sent" = 0;
+"followers_count" = 1266;
+following = 1;
+"friends_count" = 1;
+"geo_enabled" = 0;
+id = 2164237010;
+"id_str" = 2164237010;
+"is_translation_enabled" = 0;
+"is_translator" = 0;
+lang = en;
+"listed_count" = 32;
+location = China;
+name = "IT \U516c\U8bba";
+notifications = 0;
+"profile_background_color" = C0DEED;
+"profile_background_image_url" = "http://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_image_url_https" = "https://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_tile" = 0;
+"profile_image_url" = "http://pbs.twimg.com/profile_images/515222512896987136/z7XmrTDZ_normal.png";
+"profile_image_url_https" = "https://pbs.twimg.com/profile_images/515222512896987136/z7XmrTDZ_normal.png";
+"profile_link_color" = 0084B4;
+"profile_sidebar_border_color" = C0DEED;
+"profile_sidebar_fill_color" = DDEEF6;
+"profile_text_color" = 333333;
+"profile_use_background_image" = 1;
+protected = 0;
+"screen_name" = ITgonglun;
+"statuses_count" = 541;
+"time_zone" = "<null>";
+url = "https://t.co/DKTkppf2P5";
+"utc_offset" = "<null>";
+verified = 0;
+};
+},
+{
+contributors = "<null>";
+coordinates = "<null>";
+"created_at" = "Mon Oct 06 03:25:22 +0000 2014";
+entities =         {
+hashtags =             (
+);
+symbols =             (
+);
+urls =             (
+{
+"display_url" = "ipn.li/itgonglun/114/";
+"expanded_url" = "http://ipn.li/itgonglun/114/";
+indices =                     (
+42,
+64
+);
+url = "http://t.co/ipo97ImXNu";
+},
+{
+"display_url" = "ipn.li/itgonglun/114/\U2026";
+"expanded_url" = "http://ipn.li/itgonglun/114/audio.mp3";
+indices =                     (
+70,
+92
+);
+url = "http://t.co/ItVSA4PrV0";
+}
+);
+"user_mentions" =             (
+);
+};
+"favorite_count" = 1;
+favorited = 0;
+geo = "<null>";
+id = 518965210066206722;
+"id_str" = 518965210066206722;
+"in_reply_to_screen_name" = "<null>";
+"in_reply_to_status_id" = "<null>";
+"in_reply_to_status_id_str" = "<null>";
+"in_reply_to_user_id" = "<null>";
+"in_reply_to_user_id_str" = "<null>";
+lang = zh;
+place = "<null>";
+"possibly_sensitive" = 0;
+"retweet_count" = 0;
+retweeted = 0;
+source = "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>";
+text = "\U300aIT \U516c\U8bba\U300b\U7b2c\U4e00\U4e00\U56db\U671f\Uff1a\U5982\U679c\U8981\U5e72\U51c0\U548c\U5b89\U5168\Uff0c\U5c31\U4e0d\U8981\U8ddf\U4efb\U4f55\U4e1c\U897f\U4e92\U8054\Uff08\U4e0d\U53ea\U662f\U5728\U8bf4\U6280\U672f\Uff09 http://t.co/ipo97ImXNu \U76f4\U63a5\U4e0b\U8f7d\Uff1ahttp://t.co/ItVSA4PrV0";
+truncated = 0;
+user =         {
+"contributors_enabled" = 0;
+"created_at" = "Wed Oct 30 06:38:45 +0000 2013";
+"default_profile" = 1;
+"default_profile_image" = 0;
+description = "\U674e\U5982\U4e00\U3001Rio\U3001\U674e\U6960\U4e3b\U6301\U7684\U79d1\U6280\U8131\U53e3\U79c0\U3002\U8d5e\U52a9\U4e0e\U5408\U4f5c\U4e8b\U5b9c\U8bf7\U6765\U4fe1\Uff1aLawrence@itgonglun.com";
+entities =             {
+description =                 {
+urls =                     (
+);
+};
+url =                 {
+urls =                     (
+{
+"display_url" = "ipn.li/itgonglun/";
+"expanded_url" = "https://ipn.li/itgonglun/";
+indices =                             (
+0,
+23
+);
+url = "https://t.co/DKTkppf2P5";
+}
+);
+};
+};
+"favourites_count" = 0;
+"follow_request_sent" = 0;
+"followers_count" = 1266;
+following = 1;
+"friends_count" = 1;
+"geo_enabled" = 0;
+id = 2164237010;
+"id_str" = 2164237010;
+"is_translation_enabled" = 0;
+"is_translator" = 0;
+lang = en;
+"listed_count" = 32;
+location = China;
+name = "IT \U516c\U8bba";
+notifications = 0;
+"profile_background_color" = C0DEED;
+"profile_background_image_url" = "http://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_image_url_https" = "https://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_tile" = 0;
+"profile_image_url" = "http://pbs.twimg.com/profile_images/515222512896987136/z7XmrTDZ_normal.png";
+"profile_image_url_https" = "https://pbs.twimg.com/profile_images/515222512896987136/z7XmrTDZ_normal.png";
+"profile_link_color" = 0084B4;
+"profile_sidebar_border_color" = C0DEED;
+"profile_sidebar_fill_color" = DDEEF6;
+"profile_text_color" = 333333;
+"profile_use_background_image" = 1;
+protected = 0;
+"screen_name" = ITgonglun;
+"statuses_count" = 541;
+"time_zone" = "<null>";
+url = "https://t.co/DKTkppf2P5";
+"utc_offset" = "<null>";
+verified = 0;
+};
+},
+{
+contributors = "<null>";
+coordinates = "<null>";
+"created_at" = "Sun Oct 05 20:55:11 +0000 2014";
+entities =         {
+hashtags =             (
+);
+symbols =             (
+);
+urls =             (
+{
+"display_url" = "prairiehome.org/features/cruis\U2026";
+"expanded_url" = "http://prairiehome.org/features/cruise/2015-aphc-at-sea/";
+indices =                     (
+111,
+133
+);
+url = "http://t.co/hRi9WTX7gC";
+}
+);
+"user_mentions" =             (
+{
+id = 31650414;
+"id_str" = 31650414;
+indices =                     (
+44,
+56
+);
+name = "Sara Watkins";
+"screen_name" = SaraWatkins;
+},
+{
+id = 107564693;
+"id_str" = 107564693;
+indices =                     (
+58,
+72
+);
+name = "Sarah O'Donovan";
+"screen_name" = aoifeodonovan;
+}
+);
+};
+"favorite_count" = 0;
+favorited = 0;
+geo = "<null>";
+id = 518867016997167105;
+"id_str" = 518867016997167105;
+"in_reply_to_screen_name" = "<null>";
+"in_reply_to_status_id" = "<null>";
+"in_reply_to_status_id_str" = "<null>";
+"in_reply_to_user_id" = "<null>";
+"in_reply_to_user_id_str" = "<null>";
+lang = en;
+place = "<null>";
+"possibly_sensitive" = 0;
+"retweet_count" = 1;
+retweeted = 0;
+source = "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>";
+text = "APHC at Sea 2015: Puerto Rico, the Bahamas, @SaraWatkins, @aoifeodonovan, Robin &amp; Linda Williams and more! http://t.co/hRi9WTX7gC";
+truncated = 0;
+user =         {
+"contributors_enabled" = 0;
+"created_at" = "Wed Apr 13 15:56:10 +0000 2011";
+"default_profile" = 0;
+"default_profile_image" = 0;
+description = "A Prairie Home Companion with Garrison Keillor. Tweets by web guy Ben M. (We haven't quite convinced GK to try out Twitter\U2014yet.)";
+entities =             {
+description =                 {
+urls =                     (
+);
+};
+url =                 {
+urls =                     (
+{
+"display_url" = "prairiehome.org";
+"expanded_url" = "http://prairiehome.org";
+indices =                             (
+0,
+22
+);
+url = "http://t.co/4Z8zdTyr7b";
+}
+);
+};
+};
+"favourites_count" = 906;
+"follow_request_sent" = 0;
+"followers_count" = 11317;
+following = 1;
+"friends_count" = 62;
+"geo_enabled" = 0;
+id = 281596622;
+"id_str" = 281596622;
+"is_translation_enabled" = 0;
+"is_translator" = 0;
+lang = en;
+"listed_count" = 208;
+location = "St. Paul, MN";
+name = "Prairie Home Comp.";
+notifications = 0;
+"profile_background_color" = 0E4A00;
+"profile_background_image_url" = "http://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_image_url_https" = "https://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_tile" = 0;
+"profile_banner_url" = "https://pbs.twimg.com/profile_banners/281596622/1388677597";
+"profile_image_url" = "http://pbs.twimg.com/profile_images/484079981681582080/GyQgfsDn_normal.png";
+"profile_image_url_https" = "https://pbs.twimg.com/profile_images/484079981681582080/GyQgfsDn_normal.png";
+"profile_link_color" = CE1601;
+"profile_sidebar_border_color" = FFFFFF;
+"profile_sidebar_fill_color" = DDEEF6;
+"profile_text_color" = 333333;
+"profile_use_background_image" = 0;
+protected = 0;
+"screen_name" = "prairie_home";
+"statuses_count" = 3022;
+"time_zone" = "Central Time (US & Canada)";
+url = "http://t.co/4Z8zdTyr7b";
+"utc_offset" = "-18000";
+verified = 0;
+};
+},
+{
+contributors = "<null>";
+coordinates = "<null>";
+"created_at" = "Sun Oct 05 20:35:07 +0000 2014";
+entities =         {
+hashtags =             (
+);
+symbols =             (
+);
+urls =             (
+{
+"display_url" = "prairiehome.publicradio.org/listen/?date=2\U2026";
+"expanded_url" = "http://prairiehome.publicradio.org/listen/?date=2014/10/04";
+indices =                     (
+90,
+112
+);
+url = "http://t.co/A5fGhj3Nyv";
+}
+);
+"user_mentions" =             (
+{
+id = 14891887;
+"id_str" = 14891887;
+indices =                     (
+35,
+46
+);
+name = ellis;
+"screen_name" = ellismusic;
+},
+{
+id = 444758991;
+"id_str" = 444758991;
+indices =                     (
+64,
+78
+);
+name = "Jeff Forester";
+"screen_name" = JeffForester1;
+}
+);
+};
+"favorite_count" = 2;
+favorited = 0;
+geo = "<null>";
+id = 518861966929313793;
+"id_str" = 518861966929313793;
+"in_reply_to_screen_name" = "<null>";
+"in_reply_to_status_id" = "<null>";
+"in_reply_to_status_id_str" = "<null>";
+"in_reply_to_user_id" = "<null>";
+"in_reply_to_user_id_str" = "<null>";
+lang = en;
+place = "<null>";
+"possibly_sensitive" = 0;
+"retweet_count" = 0;
+retweeted = 0;
+source = "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>";
+text = "Music from The Gibson Brothers and @ellismusic, and a chat with @jeffforester1 this week: http://t.co/A5fGhj3Nyv";
+truncated = 0;
+user =         {
+"contributors_enabled" = 0;
+"created_at" = "Wed Apr 13 15:56:10 +0000 2011";
+"default_profile" = 0;
+"default_profile_image" = 0;
+description = "A Prairie Home Companion with Garrison Keillor. Tweets by web guy Ben M. (We haven't quite convinced GK to try out Twitter\U2014yet.)";
+entities =             {
+description =                 {
+urls =                     (
+);
+};
+url =                 {
+urls =                     (
+{
+"display_url" = "prairiehome.org";
+"expanded_url" = "http://prairiehome.org";
+indices =                             (
+0,
+22
+);
+url = "http://t.co/4Z8zdTyr7b";
+}
+);
+};
+};
+"favourites_count" = 906;
+"follow_request_sent" = 0;
+"followers_count" = 11317;
+following = 1;
+"friends_count" = 62;
+"geo_enabled" = 0;
+id = 281596622;
+"id_str" = 281596622;
+"is_translation_enabled" = 0;
+"is_translator" = 0;
+lang = en;
+"listed_count" = 208;
+location = "St. Paul, MN";
+name = "Prairie Home Comp.";
+notifications = 0;
+"profile_background_color" = 0E4A00;
+"profile_background_image_url" = "http://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_image_url_https" = "https://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_tile" = 0;
+"profile_banner_url" = "https://pbs.twimg.com/profile_banners/281596622/1388677597";
+"profile_image_url" = "http://pbs.twimg.com/profile_images/484079981681582080/GyQgfsDn_normal.png";
+"profile_image_url_https" = "https://pbs.twimg.com/profile_images/484079981681582080/GyQgfsDn_normal.png";
+"profile_link_color" = CE1601;
+"profile_sidebar_border_color" = FFFFFF;
+"profile_sidebar_fill_color" = DDEEF6;
+"profile_text_color" = 333333;
+"profile_use_background_image" = 0;
+protected = 0;
+"screen_name" = "prairie_home";
+"statuses_count" = 3022;
+"time_zone" = "Central Time (US & Canada)";
+url = "http://t.co/4Z8zdTyr7b";
+"utc_offset" = "-18000";
+verified = 0;
+};
+},
+{
+contributors = "<null>";
+coordinates = "<null>";
+"created_at" = "Sun Oct 05 20:30:37 +0000 2014";
+entities =         {
+hashtags =             (
+);
+symbols =             (
+);
+urls =             (
+{
+"display_url" = "writersalmanac.publicradio.org/index.php?date\U2026";
+"expanded_url" = "http://writersalmanac.publicradio.org/index.php?date=2014/10/05";
+indices =                     (
+92,
+114
+);
+url = "http://t.co/5GnXGNFGPp";
+}
+);
+"user_mentions" =             (
+);
+};
+"favorite_count" = 1;
+favorited = 0;
+geo = "<null>";
+id = 518860833091514368;
+"id_str" = 518860833091514368;
+"in_reply_to_screen_name" = "<null>";
+"in_reply_to_status_id" = "<null>";
+"in_reply_to_status_id_str" = "<null>";
+"in_reply_to_user_id" = "<null>";
+"in_reply_to_user_id_str" = "<null>";
+lang = en;
+place = "<null>";
+"possibly_sensitive" = 0;
+"retweet_count" = 4;
+retweeted = 0;
+source = "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>";
+text = "\U201cWild Turkeys\U201d by Lawrence Kessenich. It\U2019s the birthday of Bill James and Robert Goddard... http://t.co/5GnXGNFGPp";
+truncated = 0;
+user =         {
+"contributors_enabled" = 0;
+"created_at" = "Thu Mar 01 20:59:45 +0000 2012";
+"default_profile" = 0;
+"default_profile_image" = 0;
+description = "Daily poems, prose, and literary history from Garrison Keillor, plus other updates from web guy Ben M. (We haven't quite convinced GK to try out Twitter\U2014yet.)";
+entities =             {
+description =                 {
+urls =                     (
+);
+};
+url =                 {
+urls =                     (
+{
+"display_url" = "writersalmanac.org";
+"expanded_url" = "http://writersalmanac.org";
+indices =                             (
+0,
+22
+);
+url = "http://t.co/BdWzB7UIFs";
+}
+);
+};
+};
+"favourites_count" = 65;
+"follow_request_sent" = 0;
+"followers_count" = 8273;
+following = 1;
+"friends_count" = 3;
+"geo_enabled" = 0;
+id = 510845093;
+"id_str" = 510845093;
+"is_translation_enabled" = 0;
+"is_translator" = 0;
+lang = en;
+"listed_count" = 314;
+location = "St. Paul, MN";
+name = "The Writer's Almanac";
+notifications = 0;
+"profile_background_color" = EDE9E4;
+"profile_background_image_url" = "http://pbs.twimg.com/profile_background_images/444989144/wallpaper.gif";
+"profile_background_image_url_https" = "https://pbs.twimg.com/profile_background_images/444989144/wallpaper.gif";
+"profile_background_tile" = 0;
+"profile_banner_url" = "https://pbs.twimg.com/profile_banners/510845093/1348068175";
+"profile_image_url" = "http://pbs.twimg.com/profile_images/1865522468/twa_logo_normal.png";
+"profile_image_url_https" = "https://pbs.twimg.com/profile_images/1865522468/twa_logo_normal.png";
+"profile_link_color" = 7A0B0D;
+"profile_sidebar_border_color" = FFFFFF;
+"profile_sidebar_fill_color" = DDEEF6;
+"profile_text_color" = 333333;
+"profile_use_background_image" = 0;
+protected = 0;
+"screen_name" = writersalmanac;
+"statuses_count" = 2048;
+"time_zone" = "Central Time (US & Canada)";
+url = "http://t.co/BdWzB7UIFs";
+"utc_offset" = "-18000";
+verified = 0;
+};
+},
+{
+contributors = "<null>";
+coordinates = "<null>";
+"created_at" = "Sun Oct 05 15:56:35 +0000 2014";
+entities =         {
+hashtags =             (
+);
+symbols =             (
+);
+urls =             (
+);
+"user_mentions" =             (
+);
+};
+"favorite_count" = 1;
+favorited = 0;
+geo = "<null>";
+id = 518791872345825280;
+"id_str" = 518791872345825280;
+"in_reply_to_screen_name" = "<null>";
+"in_reply_to_status_id" = "<null>";
+"in_reply_to_status_id_str" = "<null>";
+"in_reply_to_user_id" = "<null>";
+"in_reply_to_user_id_str" = "<null>";
+lang = zh;
+place = "<null>";
+"retweet_count" = 0;
+retweeted = 0;
+source = "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>";
+text = "\U592a\U533b\U7b2c\U4e09\U671f\U5f55\U6bd5\Uff01";
+truncated = 0;
+user =         {
+"contributors_enabled" = 0;
+"created_at" = "Tue Sep 23 12:37:05 +0000 2014";
+"default_profile" = 1;
+"default_profile_image" = 0;
+description = "\U592a\U533b\U6765\U4e86\U7531 IPN \U51fa\U54c1\Uff0c\U7531\U524d\U9aa8\U79d1\U533b\U751f\U521d\U6d0b\U3001\U5987\U4ea7\U79d1\U533b\U751f\U7530\U5409\U987a\U548c\U76ae\U80a4\U79d1\U533b\U751f\U9648\U8bed\U5c9a\U4e3b\U6301\Uff0c\U662f\U4e2d\U6587\U4e92\U8054\U7f51\U7b2c\U4e00\U6863\U533b\U751f\U8c08\U8bdd\U7c7b\U64ad\U5ba2\U3002\U8282\U76ee\U91cc\U6ca1\U6709\U8001\U4e13\U5bb6\U8bb2\U517b\U751f\Uff0c\U53ea\U6709\U4e09\U4e2a\U533b\U751f\U804a\U804a\U533b\U9662\U91cc\U7684\U4e8b\U513f\Uff0c\U987a\U4fbf\U7ed9\U5927\U5bb6\U505a\U505a\U79d1\U666e\U3002";
+entities =             {
+description =                 {
+urls =                     (
+);
+};
+url =                 {
+urls =                     (
+{
+"display_url" = "ipn.li/taiyilaile";
+"expanded_url" = "http://ipn.li/taiyilaile";
+indices =                             (
+0,
+22
+);
+url = "http://t.co/BIzL0RWO1e";
+}
+);
+};
+};
+"favourites_count" = 0;
+"follow_request_sent" = 0;
+"followers_count" = 85;
+following = 1;
+"friends_count" = 0;
+"geo_enabled" = 0;
+id = 2827963284;
+"id_str" = 2827963284;
+"is_translation_enabled" = 0;
+"is_translator" = 0;
+lang = en;
+"listed_count" = 2;
+location = "";
+name = "\U592a\U533b\U6765\U4e86";
+notifications = 0;
+"profile_background_color" = C0DEED;
+"profile_background_image_url" = "http://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_image_url_https" = "https://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_tile" = 0;
+"profile_image_url" = "http://pbs.twimg.com/profile_images/514393716568502273/NTU-3Og0_normal.jpeg";
+"profile_image_url_https" = "https://pbs.twimg.com/profile_images/514393716568502273/NTU-3Og0_normal.jpeg";
+"profile_link_color" = 0084B4;
+"profile_sidebar_border_color" = C0DEED;
+"profile_sidebar_fill_color" = DDEEF6;
+"profile_text_color" = 333333;
+"profile_use_background_image" = 1;
+protected = 0;
+"screen_name" = taiyilaile;
+"statuses_count" = 17;
+"time_zone" = "<null>";
+url = "http://t.co/BIzL0RWO1e";
+"utc_offset" = "<null>";
+verified = 0;
+};
+}
+)
+user is {
+"contributors_enabled" = 0;
+"created_at" = "Thu Aug 23 05:32:13 +0000 2012";
+"default_profile" = 1;
+"default_profile_image" = 0;
+description = "";
+entities =     {
+description =         {
+urls =             (
+);
+};
+};
+"favourites_count" = 0;
+"follow_request_sent" = 0;
+"followers_count" = 1;
+following = 0;
+"friends_count" = 13;
+"geo_enabled" = 0;
+id = 775237206;
+"id_str" = 775237206;
+"is_translation_enabled" = 0;
+"is_translator" = 0;
+lang = en;
+"listed_count" = 0;
+location = "California, USA";
+name = "Cindy Z";
+notifications = 0;
+"profile_background_color" = C0DEED;
+"profile_background_image_url" = "http://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_image_url_https" = "https://abs.twimg.com/images/themes/theme1/bg.png";
+"profile_background_tile" = 0;
+"profile_image_url" = "http://pbs.twimg.com/profile_images/513567842818465793/gM8ufiwM_normal.jpeg";
+"profile_image_url_https" = "https://pbs.twimg.com/profile_images/513567842818465793/gM8ufiwM_normal.jpeg";
+"profile_link_color" = 0084B4;
+"profile_sidebar_border_color" = C0DEED;
+"profile_sidebar_fill_color" = DDEEF6;
+"profile_text_color" = 333333;
+"profile_use_background_image" = 1;
+protected = 0;
+"screen_name" = Cindyblky;
+status =     {
+contributors = "<null>";
+coordinates = "<null>";
+"created_at" = "Mon Sep 22 08:14:10 +0000 2014";
+entities =         {
+hashtags =             (
+);
+symbols =             (
+);
+urls =             (
+{
+"display_url" = "qdaily.com/display/articl\U2026";
+"expanded_url" = "http://qdaily.com/display/articles/2292";
+indices =                     (
+0,
+22
+);
+url = "http://t.co/kaEBJG3hKI";
+}
+);
+"user_mentions" =             (
+);
+};
+"favorite_count" = 0;
+favorited = 0;
+geo = "<null>";
+id = 513964459438534656;
+"id_str" = 513964459438534656;
+"in_reply_to_screen_name" = "<null>";
+"in_reply_to_status_id" = "<null>";
+"in_reply_to_status_id_str" = "<null>";
+"in_reply_to_user_id" = "<null>";
+"in_reply_to_user_id_str" = "<null>";
+lang = und;
+place = "<null>";
+"possibly_sensitive" = 0;
+"retweet_count" = 0;
+retweeted = 0;
+source = "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>";
+text = "http://t.co/kaEBJG3hKI";
+truncated = 0;
+};
+"statuses_count" = 2;
+"time_zone" = "Pacific Time (US & Canada)";
+url = "<null>";
+"utc_offset" = "-25200";
+verified = 0;
+}
