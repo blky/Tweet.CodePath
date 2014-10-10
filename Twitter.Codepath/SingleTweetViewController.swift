@@ -18,11 +18,9 @@ class SingleTweetViewController: UIViewController {
     @IBOutlet weak var buttonRetweet: UIButton!
     @IBOutlet weak var buttonReply: UIButton!
     @IBOutlet weak var textViewText: UITextView!
- 
     @IBAction func onRetweet(sender: AnyObject) {
         let id = tweet!.id! as NSNumber
         var params: NSDictionary = ["id" : id]
-        
         if retweeted == 0 {
             retweeted = 1
             retweetCount = retweetCount! +  1
@@ -42,7 +40,6 @@ class SingleTweetViewController: UIViewController {
             })
         }
     }
-    
     @IBAction func onFavorite(sender: UIButton) {
         let id = tweet!.id! as NSNumber
         var params: NSDictionary = ["id" : id]
@@ -78,7 +75,6 @@ class SingleTweetViewController: UIViewController {
             }
         }
     }
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -109,7 +105,6 @@ class SingleTweetViewController: UIViewController {
         self.labelTime.text = formatter.stringFromDate(tweet!.createAt!)
         self.labelNumberOfRetweets.text = "\(tweet!.retweet_count!)"
         self.labelNumberofFavorite.text = "\(tweet!.favorite_count!)"
-        
         if tweet?.favorited == 1 {
              self.buttonFavorite.setImage(UIImage(named: "favorite_on.png"), forState: UIControlState.Normal)
         }
