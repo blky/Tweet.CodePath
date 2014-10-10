@@ -1,6 +1,6 @@
 TweetClient.CodePath
 =============
-This is an iOS Swift application for Twitter Client via [Twitter RestAPI](https://dev.twitter.com/rest/public)
+This is an iOS Swift application for Twitter Client via [Twitter REST API](https://dev.twitter.com/rest/public)
 
 Completed user stories:
 
