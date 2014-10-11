@@ -41,7 +41,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-9206" y="-4048"/>
+            <point key="canvasLocation" x="-9746" y="-5452"/>
         </scene>
         <!--Tweets View Controller-->
         <scene sceneID="Kbw-mf-4Oa">
@@ -175,7 +175,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="pCw-QP-TqY" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-7762" y="-4462"/>
+            <point key="canvasLocation" x="-7582" y="-5720"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="Jgx-iZ-OXH">
@@ -193,7 +193,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="GbQ-sP-CFP" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-8521" y="-4600"/>
+            <point key="canvasLocation" x="-8441" y="-5720"/>
         </scene>
         <!--Single Tweet View Controller-->
         <scene sceneID="SHX-5i-9iO">
@@ -246,12 +246,6 @@
                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="12"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="501" verticalHuggingPriority="251" horizontalCompressionResistancePriority="752" ambiguous="YES" misplaced="YES" text="FAVORITES" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XAO-ms-Gvz">
-                                <rect key="frame" x="231" y="271" width="80" height="29"/>
-                                <fontDescription key="fontDescription" type="boldSystem" pointSize="12"/>
-                                <color key="textColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="501" verticalHuggingPriority="251" horizontalCompressionResistancePriority="752" ambiguous="YES" misplaced="YES" text="time" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0qE-MY-Kjb">
                                 <rect key="frame" x="10" y="229" width="574" height="29"/>
                                 <color key="backgroundColor" red="0.4388961509" green="0.81131114130000004" blue="0.59199129669999995" alpha="1" colorSpace="calibratedRGB"/>
@@ -282,6 +276,9 @@
                                 <state key="normal" image="reply.png">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <segue destination="a97-1Z-K6u" kind="presentation" identifier="toReply" id="L2B-4O-Mhj"/>
+                                </connections>
                             </button>
                             <view contentMode="scaleToFill" ambiguous="YES" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="FpO-TR-SG6">
                                 <rect key="frame" x="5" y="264" width="574" height="1"/>
@@ -308,6 +305,12 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="501" verticalHuggingPriority="251" horizontalCompressionResistancePriority="752" ambiguous="YES" misplaced="YES" text="FAVORITES" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XAO-ms-Gvz">
+                                <rect key="frame" x="232" y="271" width="80" height="29"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="12"/>
+                                <color key="textColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
@@ -361,7 +364,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="1N0-zr-hRa" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-7684" y="-3605"/>
+            <point key="canvasLocation" x="-7625" y="-4976"/>
         </scene>
         <!--New Tweet View Controller-->
         <scene sceneID="V0s-cm-O8w">
@@ -396,7 +399,7 @@
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" misplaced="YES" text="what is happening?" translatesAutoresizingMaskIntoConstraints="NO" id="gBl-4f-rHZ">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="gBl-4f-rHZ">
                                 <rect key="frame" x="16" y="156" width="568" height="141"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="15"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -459,7 +462,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="VTY-Fh-6jR" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-6103" y="-4382"/>
+            <point key="canvasLocation" x="-6646" y="-4825"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="Yew-bf-s0e">
@@ -478,13 +481,14 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="fhF-Uz-rsd" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-8459" y="-3653"/>
+            <point key="canvasLocation" x="-8503" y="-4947"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="e3y-JB-G1C">
             <objects>
-                <navigationController storyboardIdentifier="NewTweetNavigationVC" automaticallyAdjustsScrollViewInsets="NO" id="a97-1Z-K6u" sceneMemberID="viewController">
+                <navigationController restorationIdentifier="navigateToReply" storyboardIdentifier="NewTweetNavigationVC" automaticallyAdjustsScrollViewInsets="NO" id="a97-1Z-K6u" sceneMemberID="viewController">
                     <toolbarItems/>
+                    <navigationItem key="navigationItem" id="XMp-cZ-BZs"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="Wt5-8R-DkZ">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -496,7 +500,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ArF-vS-Z7E" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-6915" y="-4382"/>
+            <point key="canvasLocation" x="-6646" y="-5682"/>
         </scene>
     </scenes>
     <resources>
@@ -504,4 +508,7 @@
         <image name="reply.png" width="16" height="16"/>
         <image name="retweet.png" width="16" height="16"/>
     </resources>
+    <inferredMetricsTieBreakers>
+        <segue reference="L2B-4O-Mhj"/>
+    </inferredMetricsTieBreakers>
 </document>

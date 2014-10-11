@@ -75,6 +75,18 @@ class SingleTweetViewController: UIViewController {
             }
         }
     }
+    override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
+        
+        if segue.identifier == "toReply" {
+            let nvc = segue.destinationViewController as UINavigationController
+            for each in nvc.childViewControllers {
+                if each.isKindOfClass(NewTweetViewController) == true {
+                    let vc = each as NewTweetViewController
+                    vc.isReply = true
+                }
+            }
+        }
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
         

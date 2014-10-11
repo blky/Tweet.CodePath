@@ -10,6 +10,8 @@ class Tweet : NSObject {
     var retweet_count : NSNumber?
     var retweeted :NSNumber?
     var id :NSNumber?
+    var idStr:String?
+    
     init (dictionary:NSDictionary) {
         //println(dictionary)
         user = User(dictionary:dictionary["user"] as NSDictionary)
@@ -23,6 +25,7 @@ class Tweet : NSObject {
         retweet_count = dictionary["retweet_count"] as? NSNumber
         retweeted = dictionary["retweeted"] as? NSNumber
         id = dictionary["id"] as? NSNumber
+        idStr = dictionary["id_str"] as? String
     }
     class func tweetsWithArray(array: [NSDictionary] )  -> [Tweet] {   
         var tweets = [Tweet]()

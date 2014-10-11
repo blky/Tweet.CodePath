@@ -8,6 +8,7 @@ class NewTweetViewController: UIViewController, UITextViewDelegate {
     @IBOutlet weak var labelScreenName: UILabel!
     @IBOutlet weak var labelText: UITextView!
     @IBOutlet weak var labelNumberOfText: UILabel!
+    var isReply:Bool?
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -19,10 +20,21 @@ class NewTweetViewController: UIViewController, UITextViewDelegate {
         self.imageProfile.setImageWithURL(NSURL(string: url!))
         labelName.text = User.currentUser?.name
         labelScreenName.text = User.currentUser?.screenName
+        if isReply == true {
+            labelText.text = "@\(User.currentUser!.name!)"
+        } else {
+        
+        }
     }
     @IBAction func onTweet(sender: UIButton) {
         
-       var params:NSDictionary  = ["status": self.labelText.text]
+       var params  = ["status": labelText.text]
+        
+        if isReply == true {
+            params["in_reply_to_status_id"] = tweet?.idStr!
+            
+        }
+        
         TwitterClient.sharedInstance.postNewTweetCompletionWithParams(params) { (tweet, error) -> () in
             
             if error != nil {
@@ -38,12 +50,12 @@ class NewTweetViewController: UIViewController, UITextViewDelegate {
     }
     func textViewShouldBeginEditing(textView: UITextView) -> Bool {
         //println("trigged there")
-        textView.text = ""
+       // textView.text = ""
         return true
     }
     func textViewDidChange(textView: UITextView){
         var count = textView.text as NSString
-        println("trigged here, count is \(count.length)")
+        //println("trigged here, count is \(count.length)")
         self.labelNumberOfText.text = "\(140 - count.length )"
     }
     func textViewDidEndEditing(textView: UITextView) {
