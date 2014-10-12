@@ -2,6 +2,8 @@ TweetClient.CodePath
 =============
 This is an iOS Swift application for Twitter Client via [Twitter REST API](https://dev.twitter.com/rest/public)
 
+Time spent: 15 hours spent in total
+
 Completed user stories:
 
  * User can sign in using OAuth login flow
