@@ -26,5 +26,5 @@ Stories not implemented:
 ![Video Walkthrough](TweetClient.gif)
 
  
-
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
     
